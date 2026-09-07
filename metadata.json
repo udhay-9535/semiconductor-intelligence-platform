@@ -1,0 +1,7 @@
+{
+  "name": "Semiconductor AI Digital Twin & Intelligent Compute Platform",
+  "description": "Enterprise Semiconductor Intelligence Platform combining AI/ML, Digital Twin, Real-Time Telemetry, Accelerated Computing, Hardware/Software Co-Design & Cloud Engineering",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
